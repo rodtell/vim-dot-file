@@ -1,2 +1,5 @@
-# vim-dot-file
-My Vim files
+## 🇬🇧
+ - My Vim editor setup.
+## 🇧🇷
+ - Minha configuração do editor Vim.
+
